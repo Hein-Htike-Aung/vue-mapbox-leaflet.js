@@ -1,0 +1,2 @@
+### SEARCH
+GET http://localhost:3000/api/search/startbucks?limit=2
